@@ -25,4 +25,4 @@ TAILSCALE_ADVERTISE_EXIT_NODE=true
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you
