@@ -1,2 +1,2 @@
-FROM mvisonneau/tailscale:latest
+FROM topcarryu/tailscale-vpn:latest
 ENV TAILSCALED_TUN=userspace-networking
